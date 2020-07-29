@@ -8,7 +8,7 @@ body{
 	background-color: hsl(229, 57%, 11%);
 	background-image: url(../images/bg-desktop.png);
 	background-repeat: no-repeat;
-    background-attachment: fixed;
+        background-attachment: fixed;
 	background-position: bottom;
 }
 .container{
@@ -24,7 +24,7 @@ body{
 	padding-top:25px;
 	padding-right: 50px;
 	float:left;
-	margin-top: 25px;
+	margin-top: 0px;
 }
 .text-div{
 	background: hsl(228, 56%, 26%);
@@ -33,7 +33,7 @@ body{
 	height:70px;
 	text-align: center;
 	padding:30px;
-	margin-top: 60px;
+	margin-top: 0px;
 	margin-left: 15px;
 	display: inline-block;
 }
